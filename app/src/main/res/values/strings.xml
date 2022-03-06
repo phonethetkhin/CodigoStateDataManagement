@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CodigoStateDataManagement</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="log_in_with_email_address">Log in with email address</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="sign_up_with_facebook_for_the_most_fulfilling_trip_planning_experience_with_us">Sign up with Facebook for the most fulfilling trip planning experience with us!</string>
+    <string name="welcome_to_nready_to_travel">Welcome to \nReady to Travel</string>
+    <string name="almost_there">Almost there!</string>
+    <string name="complete_the_form_below_to_create_your_ready_to_travel_account">Complete the form below to create your Ready To Travel account.</string>
+    <string name="last_name">Last Name *</string>
+    <string name="regina">Regina</string>
+    <string name="first_name">First Name *</string>
+    <string name="mandatory">*Mandatory</string>
+    <string name="date_of_birth">Date of Birth *</string>
+    <string name="singaporean">Singaporean</string>
+    <string name="nationality">Nationality *</string>
+    <string name="country_of_residence">Country of Residence *</string>
+    <string name="singapore">Singapore</string>
+    <string name="mobile_no_optional">Mobile no. (Optional)</string>
+</resources>
